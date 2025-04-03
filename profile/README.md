@@ -26,5 +26,5 @@
 ## 구성원
 | 이름 | username | state |
 | --- | --- | --- |
-| 성원 | [Dante](https://github.com/zhtmr) |   👨‍💻👑  |
-| 창민 | [Pracrobo](https://github.com/cmnowhere) |  👩‍💻  |
+| 성원 | https://github.com/zhtmr |   👨‍💻👑  |
+| 창민 | https://github.com/cmnowhere |  👩‍💻  |
