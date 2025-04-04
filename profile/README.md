@@ -25,7 +25,7 @@
 
 
 ## 구성원
-| 이름 | username | state |
-| --- | --- | --- |
-| 성원 | https://github.com/zhtmr |   👨‍💻👑  |
-| 창민 | https://github.com/cmnowhere |  👩‍💻  |
+| 이름 | username |
+| --- | --- |
+| 성원 | https://github.com/zhtmr |
+| 창민 | https://github.com/cmnowhere |
